@@ -1,0 +1,7 @@
+chroma-hnswlib==0.7.6
+chromadb==0.5.5
+flet==0.24.1
+flet-core==0.24.1
+flet-runtime==0.24.1
+ollama==0.3.3
+PyPDF2==3.0.1
